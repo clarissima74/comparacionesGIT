@@ -9,8 +9,9 @@ public class Clase1 {
 		// TODO Auto-generated method stub
 		System.out.println("Vamos a combinar ramas o versiones");
 
-	System.out.println("Desarrollador 1: Primer comentario");
-	System.out.println("Desarrollador 1: Segundo comentario ");
+	System.out.println("Desarrollador 2: Primer comentario");
+	System.out.println("Desarrollador 2: Segundo comentario ");
+	System.out.println("Desarrollador 2: Tercer comentario");
 	
 		
 
