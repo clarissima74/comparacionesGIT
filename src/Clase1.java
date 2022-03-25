@@ -14,10 +14,12 @@ public class Clase1 {
 	System.out.println("Desarrollador 1: Otro comentario");
 
 	System.out.println("Desarrollador 2: Tercer comentario");
-
+        MostrarDespedida();
 	
-		
-
+	}
+	public static void MostrarDespedida()
+	{
+		System.out.println("Adiosss");
 	}
 
 }
