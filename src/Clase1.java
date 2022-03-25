@@ -12,6 +12,9 @@ public class Clase1 {
 	System.out.println("Desarrollador 1: Primer comentario");
 	System.out.println("Desarrollador 1: Segundo comentario ");
 	System.out.println("Desarrollador 1: Otro comentario");
+
+	System.out.println("Desarrollador 2: Tercer comentario");
+
 	
 		
 
