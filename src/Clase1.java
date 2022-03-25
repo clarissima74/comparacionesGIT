@@ -9,6 +9,7 @@ public class Clase1 {
 		// TODO Auto-generated method stub
 		System.out.println("Vamos a combinar ramas o versiones");
 		//Versión 1
+		//Versión 2
 
 	}
 
